@@ -17,12 +17,12 @@
 .highlight .gs { font-weight: bold } /* Generic.Strong */
 .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
 .highlight .gt { color: #aa0000 } /* Generic.Traceback */
-.highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+.highlight .kc { color: #123456; font-weight: bold } /* Keyword.Constant */
 .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
 .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
 .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
 .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
-.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .kt { color: #445566; font-weight: bold } /* Keyword.Type */
 .highlight .m { color: #009999 } /* Literal.Number */
 .highlight .s { color: #d01040 } /* Literal.String */
 .highlight .na { color: #008080 } /* Name.Attribute */
